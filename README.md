@@ -46,4 +46,4 @@ This model can be used in various tasks such as Human Segmentation, Clothes Extr
       author={Liang-Chieh Chen and Yukun Zhu and George Papandreou and Florian Schroff and Hartwig Adam},
       booktitle={ECCV},
       year={2018}
-}
+   }
