@@ -41,9 +41,10 @@ This model can be used in various tasks such as Human Segmentation, Clothes Extr
 
 ## Citation
 
-@inproceedings{deeplabv3plus2018,
-      title={Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation},
-      author={Liang-Chieh Chen and Yukun Zhu and George Papandreou and Florian Schroff and Hartwig Adam},
-      booktitle={ECCV},
-      year={2018}
-   }
+
+      @inproceedings{deeplabv3plus2018,
+        title={Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation},
+        author={Liang-Chieh Chen and Yukun Zhu and George Papandreou and Florian Schroff and Hartwig Adam},
+        booktitle={ECCV},
+        year={2018}
+      }
