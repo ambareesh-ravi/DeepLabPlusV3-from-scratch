@@ -7,8 +7,8 @@
 
 
 This project is the 3rd part of "From Scratch" Series. You can also view :
- Part 1 - [Inception v3 from scratch](https://github.com/ambareesh-ravi/Inception-v3-from-scratch)
- Part 2 - [Squeeze and Excitation Network from scratch](https://github.com/ambareesh-ravi/Squeeze-and-Excitation-Network-from-scratch)
+ - Part 1 - [Inception v3 from scratch](https://github.com/ambareesh-ravi/Inception-v3-from-scratch)
+ - Part 2 - [Squeeze and Excitation Network from scratch](https://github.com/ambareesh-ravi/Squeeze-and-Excitation-Network-from-scratch)
 
 
 A Tensorflow 2.2 implementation of DeepLabV3Plus network from scratch. 
@@ -24,6 +24,7 @@ The main part of DeepLabV3Plus is the ASPP Module, which is explained below:
 ## Model
 
 The DeepLabV3Plus model created by Google is explained on a higher level in this diagram : 
+
 
 
 ![DeepLabV3Plus Architecture][DeepLabV3Plus]
